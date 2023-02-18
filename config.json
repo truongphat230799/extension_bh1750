@@ -1,0 +1,14 @@
+{
+    "name": "BH1750",
+    "description": "Mục mở rộng hỗ trợ cảm biến BH1750",
+    "libs": [
+        "bh1750.py"
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.png"
+}
