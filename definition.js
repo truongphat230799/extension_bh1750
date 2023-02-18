@@ -3,9 +3,9 @@ Blockly.Blocks['yolobit_bh1750_setup'] = {
       this.jsonInit(
         {
             "type": "yolobit_bh1750_setup",
-            "message0": "cường độ ánh sáng(lux)",
+            "message0": "cường độ ánh sáng (lux)",
             "output": null,
-            "colour": 230,
+            "colour": "#33aaaa",
             "tooltip": "",
             "helpUrl": ""
         }
